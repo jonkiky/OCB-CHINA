@@ -10,7 +10,6 @@
 * [NPC/IFBB 中国](zhong-guo-jian-shen-bi-sai/npcifbb-zhong-guo.md)
 * [CBBA 健美](zhong-guo-jian-shen-bi-sai/cbba-jian-mei.md)
 * [华东区健美联赛](zhong-guo-jian-shen-bi-sai/hua-dong-qu-jian-mei-lian-sai.md)
-* [白鲸联赛](zhong-guo-jian-shen-bi-sai/bai-jing-lian-sai.md)
 * [DNA城市冠军赛](zhong-guo-jian-shen-bi-sai/dna-cheng-shi-guan-jun-sai.md)
 * [Fitness Stage](zhong-guo-jian-shen-bi-sai/fitness-stage.md)
 * [SuperMuscle](zhong-guo-jian-shen-bi-sai/supermuscle.md)
